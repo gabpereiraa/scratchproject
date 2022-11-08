@@ -30,8 +30,8 @@ if(valorimc < 18.6) {
                 console.log ("Obesidade Grau I")
             } else {
                 if(valorimc > 34.9 && valorimc < 40.0) {
-                    console.log ("Obesidade Grau II")}  
-                 else {  
+                    console.log ("Obesidade Grau II")
+                } else {  
                     if(valorimc > 39.9) {
                         console.log ("Obesidade Grau III")
                     }}}}}}
